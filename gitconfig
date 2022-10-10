@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ethanatt244@gmail.com
+	name = Ethan Attias
